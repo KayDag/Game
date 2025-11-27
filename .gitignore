@@ -1,0 +1,31 @@
+
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Artifacts/
+Packages/com.unity.package-manager-ui/
+
+# === Visual Studio / Rider ===
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.tmp
+*.pidb
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# === OS Garbage ===
+.DS_Store
+Thumbs.db

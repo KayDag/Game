@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|c:\\users\\dangk\\onedrive\\m\u00E1y t\u00EDnh\\g\\my project (2)\\assets\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\layout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\layout2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:Assets\\Gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\layout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\layout1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\assets\\layout3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:assets\\layout3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\EnemyBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:Assets\\EnemyBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\BackGround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|Assembly-CSharp.csproj|solutionrelative:Assets\\BackGround.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\MenuManager.cs",
+              "ViewState": "AgIAAAkAAABgZmZmZmYkwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBcAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKzSURBVDhP7ZJfSFNRHMd/5\u002B7OxvA2NydqppIzC5uFbVQG2p8HKcGHIKSkP5A6eyoX0Ztk9BSUmxVESvRg6kNKsHoIokI0bG5pWVgtfVAwp7Pc3HKb272/zj1dpJee8tHPwzn3/L7f\u002Bzu/c34H1vlviDxMBaf0fd/6NE\u002B\u002BPILPgWnIy8gDu8UOleml4cxMc4Q5KV1jXXo1p07UmGsiiFe5zg8mo1FrDFUVVcUVC3DyEI1FHZxEvAlUeQmf9PL0O0XkvT9FVSNzKcQSMUd4JcxicrKkmHjuj8xUMFGBl4fbow4Dz/GbdqXv9ARjwbuWDKvD7Xcbhv3DAnMpPBxvNyAAi3V8dKokSMkEBA0TFdiRi9oLXPkb84XyrIoOEcFFCGkc8g/aIolwz9mSuu5f0XCt830rhOKhk1T7Tn/pR8BUOttowmcmncm3Rdjq6z3e280qDCzPQyAa6H9x4nW3vKbcMj/YriUSTvISrwPCWViUEB0i0gksgERDy1EDwUIqCCoOJOaR0TtTXfo2oUVZ/pO/fcZWbXaaU5hJaxOqmajAmrKWsDuUd6bnGFm8GF6tkh65mYoT9tIrE0sroWbH6E0IrSztAcQQjX9FIjeDlAPgmElXOFegM3keH\u002Bu7zu4wR8iFXCH3QNlAWa2op01ZJI39069O0UQ9SS75DlEaYbsgblOaQtdyU3AfbcokjftQJJOyhVV4\u002BeUlV1ISq5fiQY/bP3TncF6lkyYxiJJ47d7R\u002B6tV7\u002B/c66LPZmTotLulvHN3tgRqL23O\u002BTdn3j5VLH/usK64YTFbmzXrmfNsDkQXbowvfIofzDk0e6G0KcxcCvXUV7/DxmINJU3iueKG\u002BTqzLcZEBZZQTIh2QM7Ko2gVgVgJ8FZelbCCCtqZS0HcgHZcRhbT\u002BDQ/JDUeISEywMR11giA3/j6Gy64yb2gAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-11-22T08:46:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Layout2.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Layout2.cs",
+              "RelativeDocumentMoniker": "Assets\\Layout2.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Layout2.cs",
+              "RelativeToolTip": "Assets\\Layout2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Layout1.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Layout1.cs",
+              "RelativeDocumentMoniker": "Assets\\Layout1.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Layout1.cs",
+              "RelativeToolTip": "Assets\\Layout1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Gun.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Gun.cs",
+              "RelativeToolTip": "Assets\\Gun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Treasure.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Treasure.cs",
+              "RelativeDocumentMoniker": "Assets\\Treasure.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Treasure.cs",
+              "RelativeToolTip": "Assets\\Treasure.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Plane.cs",
+              "RelativeDocumentMoniker": "Assets\\Plane.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Plane.cs",
+              "RelativeToolTip": "Assets\\Plane.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Manager.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Manager.cs",
+              "RelativeToolTip": "Assets\\Manager.cs",
+              "ViewState": "AgIAAE8AAACAZmZmZmYiwFkAAAAbAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKzSURBVDhP7ZJfSFNRHMd/5\u002B7OxvA2NydqppIzC5uFbVQG2p8HKcGHIKSkP5A6eyoX0Ztk9BSUmxVESvRg6kNKsHoIokI0bG5pWVgtfVAwp7Pc3HKb272/zj1dpJee8tHPwzn3/L7f\u002Bzu/c34H1vlviDxMBaf0fd/6NE\u002B\u002BPILPgWnIy8gDu8UOleml4cxMc4Q5KV1jXXo1p07UmGsiiFe5zg8mo1FrDFUVVcUVC3DyEI1FHZxEvAlUeQmf9PL0O0XkvT9FVSNzKcQSMUd4JcxicrKkmHjuj8xUMFGBl4fbow4Dz/GbdqXv9ARjwbuWDKvD7Xcbhv3DAnMpPBxvNyAAi3V8dKokSMkEBA0TFdiRi9oLXPkb84XyrIoOEcFFCGkc8g/aIolwz9mSuu5f0XCt830rhOKhk1T7Tn/pR8BUOttowmcmncm3Rdjq6z3e280qDCzPQyAa6H9x4nW3vKbcMj/YriUSTvISrwPCWViUEB0i0gksgERDy1EDwUIqCCoOJOaR0TtTXfo2oUVZ/pO/fcZWbXaaU5hJaxOqmajAmrKWsDuUd6bnGFm8GF6tkh65mYoT9tIrE0sroWbH6E0IrSztAcQQjX9FIjeDlAPgmElXOFegM3keH\u002Bu7zu4wR8iFXCH3QNlAWa2op01ZJI39069O0UQ9SS75DlEaYbsgblOaQtdyU3AfbcokjftQJJOyhVV4\u002BeUlV1ISq5fiQY/bP3TncF6lkyYxiJJ47d7R\u002B6tV7\u002B/c66LPZmTotLulvHN3tgRqL23O\u002BTdn3j5VLH/usK64YTFbmzXrmfNsDkQXbowvfIofzDk0e6G0KcxcCvXUV7/DxmINJU3iueKG\u002BTqzLcZEBZZQTIh2QM7Ko2gVgVgJ8FZelbCCCtqZS0HcgHZcRhbT\u002BDQ/JDUeISEywMR11giA3/j6Gy64yb2gAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-11-22T08:46:17.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BackGround.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\BackGround.cs",
+              "RelativeDocumentMoniker": "Assets\\BackGround.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\BackGround.cs",
+              "RelativeToolTip": "Assets\\BackGround.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Layout3.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Layout3.cs",
+              "RelativeDocumentMoniker": "Assets\\Layout3.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\Layout3.cs",
+              "RelativeToolTip": "Assets\\Layout3.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyBullet.cs",
+              "ToolTip": "C:\\Users\\dangk\\OneDrive\\M\u00E1y t\u00EDnh\\G\\My project (2)\\Assets\\EnemyBullet.cs",
+              "RelativeToolTip": "Assets\\EnemyBullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:46:17.522Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
