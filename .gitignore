@@ -29,3 +29,4 @@ Packages/com.unity.package-manager-ui/
 # === OS Garbage ===
 .DS_Store
 Thumbs.db
+.vs/
