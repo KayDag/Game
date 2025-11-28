@@ -25,4 +25,8 @@ public class MenuManager : MonoBehaviour
         Debug.Log("Button pressed!");
         SceneManager.LoadScene("GameScene");
     }
+    public void HighScoreDisplay()
+    {
+        SceneManager.LoadScene("HighScoreDisplay");
+    }
 }

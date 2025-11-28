@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3210024942995643357
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8405592789426452130}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8405592789426452130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3210024942995643357}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.009, y: 0.355, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5527547631706556689}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3908449990978055375
 GameObject:
   m_ObjectHideFlags: 0
@@ -13,6 +44,7 @@ GameObject:
   - component: {fileID: -8282246983421134456}
   - component: {fileID: 8502362141680923086}
   - component: {fileID: -402629074382050107}
+  - component: {fileID: -8095322332569036684}
   m_Layer: 0
   m_Name: Plane2
   m_TagString: Untagged
@@ -32,7 +64,8 @@ Transform:
   m_LocalPosition: {x: -92.32, y: -204.21, z: -0.81642604}
   m_LocalScale: {x: 1.2051, y: 1.2051, z: 1.2051}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 8405592789426452130}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3483779647408790449
@@ -171,11 +204,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4464eb91a37a1044a441dbb9a98d504, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  man: {fileID: 0}
-  speedMove: 1
+  speedMove: 5
   moveInput: {x: 0, y: 0, z: 0}
   fired: []
   GunPower: []
   score: e703000005000000090000000d000000
   countS: 0
   level: 1
+  currentChar: {fileID: 0}
+  spriteRenderer: {fileID: 0}
+--- !u!114 &-8095322332569036684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3908449990978055375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 241b3caaf52775c45aa52a15a15789ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gunPower:
+  - {fileID: 8405592789426452130}
+  Bullet: {fileID: 229550864197261575, guid: a0d710583cbb2394888c5eca8c1bf449, type: 3}
+  staTime: 1
