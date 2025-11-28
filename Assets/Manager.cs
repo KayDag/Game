@@ -34,46 +34,50 @@ public class Manager : MonoBehaviour
 
     void Update()
     {
-        // Level 1 logic
-        if (currentLv == 1 && ((l1 != null && l1.EnemyinPos()) || checkLv1))
+        while (player)
         {
-            player.Shoot();
-            checkLv1 = true;
-        }
-        // Level 2 logic
-        else if (currentLv == 2)
-        {
-            player.Shoot();
-        }
-        // Level 3 logic
-        else if (currentLv == 3 && ((l3 != null && l3.EnemyinPos()) || checkLv3))
-        {
-            player.Shoot();
-            checkLv3 = true;
-        }
+            if (currentLv == 1 && ((l1 != null && l1.EnemyinPos()) || checkLv1))
+            {
+                player.Shoot();
+                checkLv1 = true;
+            }
+            // Level 2 logic
+            else if (currentLv == 2)
+            {
+                player.Shoot();
+            }
+            // Level 3 logic
+            else if (currentLv == 3 && ((l3 != null && l3.EnemyinPos()) || checkLv3))
+            {
+                player.Shoot();
+                checkLv3 = true;
+            }
 
-        // Level transitions
-        if (currentLv == 1 && l1 != null && l1.LevelFinished())
-        {
-            player.ClearBullet();
-            checkLv1 = false;
-            l1.gameObject.SetActive(false);
-            if (l2 != null) l2.gameObject.SetActive(true);
-            currentLv++;
+            // Level transitions
+            if (currentLv == 1 && l1 != null && l1.LevelFinished())
+            {
+                player.ClearBullet();
+                checkLv1 = false;
+                l1.gameObject.SetActive(false);
+                if (l2 != null) l2.gameObject.SetActive(true);
+                currentLv++;
+            }
+            else if (currentLv == 2 && l2 != null && l2.LevelFinished())
+            {
+                player.ClearBullet();
+                l2.gameObject.SetActive(false);
+                if (l3 != null) l3.gameObject.SetActive(true);
+                currentLv++;
+            }
+            else if (currentLv == 3 && l3 != null && l3.LevelFinished())
+            {
+                player.ClearBullet();
+                checkLv3 = false;
+                l3.gameObject.SetActive(false);
+                if (l1 != null) l1.gameObject.SetActive(true);
+                currentLv = 1;
+            }
         }
-        else if (currentLv == 2 && l2 != null && l2.LevelFinished())
-        {
-            player.ClearBullet();
-            l2.gameObject.SetActive(false);
-            if (l3 != null) l3.gameObject.SetActive(true);
-            currentLv++;
-        }
-        else if (currentLv == 3 && l3 != null && l3.LevelFinished())
-        {
-            player.ClearBullet();
-            Debug.Log("Win!!!");
-        }
-
         // End game check
         if (player == null)
         {
