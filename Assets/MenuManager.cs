@@ -5,6 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class MenuManager : MonoBehaviour
 {
+    void Awake()
+    {
+        Debug.Log("MenuManager Awake");
+    }
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +22,7 @@ public class MenuManager : MonoBehaviour
     }
     public void PlayGame()
     {
+        Debug.Log("Button pressed!");
         SceneManager.LoadScene("GameScene");
     }
 }

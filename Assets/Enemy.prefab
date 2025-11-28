@@ -172,10 +172,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de27916556c15a2469c5b804f8e15fe1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  man: {fileID: 0}
   EnemyBullet: {fileID: 5372499433893191060, guid: 21e89729d6b0bc04bace1f8adbfc3e3e, type: 3}
   EnemyGun: {fileID: 5356216319842677137}
-  treasure: {fileID: 5556469785320552648, guid: 15e6b38ce458dcb4c80a0fa4b5b99669, type: 3}
+  treasure: {fileID: 8405866271575611438, guid: 15e6b38ce458dcb4c80a0fa4b5b99669, type: 3}
   rSpawn: 1
   freqTr: 1
   timer: 0

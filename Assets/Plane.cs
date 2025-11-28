@@ -1,22 +1,25 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.TextCore.Text;
 
 public class Plane : MonoBehaviour
 {
-    public Manager man;
     public int speedMove = 1;
     public Vector3 moveInput;
     public List<GameObject> fired = new List<GameObject>();
     public List<Gun> GunPower = new List<Gun>();
     public List<int> score = new List<int> { 999, 5, 9, 13 };
-    public float countS = 0;
+    public int countS = 0;
     public int level = 1;
+    public GameObject currentChar; // nhân vật hiện tại
+    public SpriteRenderer spriteRenderer; // nếu dùng sprite
+
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -86,5 +89,19 @@ public class Plane : MonoBehaviour
             Debug.Log("Game Over!!!");
             Time.timeScale = 0;
         }
+    }
+    public void SetCharacter(GameObject charPrefab)
+    {
+        currentChar = charPrefab;
+
+        // Nếu chỉ thay sprite
+        SpriteRenderer charSprite = charPrefab.GetComponent<SpriteRenderer>();
+        if (charSprite != null && spriteRenderer != null)
+        {
+            spriteRenderer.sprite = charSprite.sprite;
+        }
+
+        // Nếu muốn instantiate prefab lên plane
+        // GameObject newChar = Instantiate(charPrefab, transform.position, Quaternion.identity, transform);
     }
 }

@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public Manager man;
     public GameObject EnemyBullet;
     public Transform EnemyGun;
     public Treasure treasure;   
@@ -16,7 +15,7 @@ public class Enemy : MonoBehaviour
 
     private void Start()
     {
-        man = Manager.Instance;
+        
     }
     void Update()
     {
@@ -38,11 +37,9 @@ public class Enemy : MonoBehaviour
         Bullet bullet = other.gameObject.GetComponent<Bullet>();
         if (bullet != null)
         {
-            man.player.countS += exp;
             Destroy(bullet.gameObject);
             DropTreasure();
             Destroy(this.gameObject);
-            Debug.Log("Exp: " + man.player.countS);
         }
     }
 
@@ -51,7 +48,6 @@ public class Enemy : MonoBehaviour
         if (treasure != null)
         {
             Treasure t = Instantiate(treasure, transform.position, Quaternion.identity);
-            t.player = man.player.gameObject;
         }
     }
 }
